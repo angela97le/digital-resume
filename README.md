@@ -31,10 +31,10 @@ Critically contributed to intellectual property leading to four patent filings a
 ### Education
 
 **Certification** in Professional Strategic Roadmaps
-[Aha!](https://www.aha.io/) - Remote _(Certified Aug 2021)_
+  [Aha!](https://www.aha.io/) - Remote _(Certified Aug 2021)_
 
 **Certification** in Product Management Fundamentals
-[Aha!](https://www.aha.io/) - Remote _(Certified October 2020)_
+  [Aha!](https://www.aha.io/) - Remote _(Certified October 2020)_
 
 **Online Bootcamp** in Web Development
 [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Remote _(May - Sept 2020)_
