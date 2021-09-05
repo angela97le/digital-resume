@@ -30,19 +30,19 @@ Critically contributed to intellectual property leading to four patent filings a
 
 ### Education
 
-**Certification** in Professional Strategic Roadmaps
-  [Aha!](https://www.aha.io/) - Remote _(Certified Aug 2021)_
+**Certification** in Professional Strategic Roadmaps  
+[Aha!](https://www.aha.io/) - Remote _(Certified Aug 2021)_
 
-**Certification** in Product Management Fundamentals
-  [Aha!](https://www.aha.io/) - Remote _(Certified October 2020)_
+**Certification** in Product Management Fundamentals  
+[Aha!](https://www.aha.io/) - Remote _(Certified October 2020)_
 
-**Online Bootcamp** in Web Development
+**Online Bootcamp** in Web Development  
 [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Remote _(May - Sept 2020)_
 
-**Bachelor of Science** in Bioengineering
+**Bachelor of Science** in Bioengineering  
 [University of California, Los Angeles](https://www.ucla.edu/) - Los Angeles, CA _(2015 - 2019)_
 
-**Education Abroad Program** in Roman Art and History
+**Education Abroad Program** in Roman Art and History  
 [UC Center Rome](https://uceap.universityofcalifornia.edu/taxonomy/term/390) - Rome, Italy _(Summer 2019)_
 
 ### Skills
