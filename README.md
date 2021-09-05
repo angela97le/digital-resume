@@ -34,7 +34,6 @@ Critically contributed to intellectual property leading to four patent filings a
 [Aha!](https://www.aha.io/) - Remote _(Certified Aug 2021)_
 
 **Certification** in Product Management Fundamentals
-
 [Aha!](https://www.aha.io/) - Remote _(Certified October 2020)_
 
 **Online Bootcamp** in Web Development
