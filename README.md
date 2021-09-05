@@ -1,7 +1,7 @@
 # Angela Le
-[Website](https://angela97le.wixsite.com/website-2) / [Email](angela97le@g.ucla.edu) / [LinkedIn](https://www.linkedin.com/in/lenangela/)
+[Website](https://angela97le.wixsite.com/website-2) / [Email](angela97le@g.ucla.edu) / [LinkedIn](https://www.linkedin.com/in/lenangela/)  
 
-### Experience
+## Experience
 
 **Customer Success Specialist** @ [Aha!](https://www.aha.io/) - Remote _(Dec 2020 - Sept 2021)_
 - Provided best practices to product management teams to standardize work-strategy alignment and release planning processes across different methodologies (sprint based, release based, CI/CD, SAFe, etc) for improved organization and efficient product delivery.
@@ -25,10 +25,10 @@
 **Product Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
 - Oversaw product roadmap of medical devices end-to-end through agile development by defining specifications and product concept, prototyping, iterative testing, backlog maintenance, and strategy development. 
 Critically contributed to intellectual property leading to four patent filings and one publication in The Journal of Analytical Chemistry.
-- Collaborated cross-functionally with design, engineering, patent lawyer, manufacturing, QA, and marketing teams to launch products. 
+- Collaborated cross-functionally with design, engineering, patent lawyer, manufacturing, QA, and marketing teams to launch products.  
 
 
-### Education
+## Education
 
 **Certification** in Professional Strategic Roadmaps  
 [Aha!](https://www.aha.io/) - Remote _(Certified Aug 2021)_
@@ -43,9 +43,9 @@ Critically contributed to intellectual property leading to four patent filings a
 [University of California, Los Angeles](https://www.ucla.edu/) - Los Angeles, CA _(2015 - 2019)_
 
 **Education Abroad Program** in Roman Art and History  
-[UC Center Rome](https://uceap.universityofcalifornia.edu/taxonomy/term/390) - Rome, Italy _(Summer 2019)_
+[UC Center Rome](https://uceap.universityofcalifornia.edu/taxonomy/term/390) - Rome, Italy _(Summer 2019)_  
 
-### Skills
+## Skills
 Aha!, Jira, Azure DevOps
 HTML, CSS, JavaScript
 Figma, User Interviews, Product Demos, Communication
