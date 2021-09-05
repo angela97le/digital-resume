@@ -1,5 +1,5 @@
 ## Angela Le
-[Website](https://angela97le.wixsite.com/website-2)/[Email](angela97le@g.ucla.edu)/[LinkedIn](https://www.linkedin.com/in/lenangela/)
+[Website](https://angela97le.wixsite.com/website-2) / [Email](angela97le@g.ucla.edu) / [LinkedIn](https://www.linkedin.com/in/lenangela/)
 
 ### Experience
 
