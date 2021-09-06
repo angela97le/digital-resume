@@ -1,5 +1,5 @@
 # Angela Le
-[Website](https://angela97le.wixsite.com/website-2) / [Email](angela97le@g.ucla.edu) / [LinkedIn](https://www.linkedin.com/in/lenangela/)\
+[Website](https://angela97le.wixsite.com/website-2) / [Email](angela97le@g.ucla.edu) / [LinkedIn](https://www.linkedin.com/in/lenangela/)  
 
 ## Experience
 
@@ -9,7 +9,7 @@
 - Solved more than 1,800 Zendesk tickets to provide integration configuration guidance with development systems (Jira, ADO, Asana, Salesforce, GitLab, Github, etc) and steps to create visual roadmaps for high level and engineering focused stakeholders.
 - Wrote about [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) and published on Aha!'s public knowledge base to provide customer resources on a frequently asked question.
 
-\
+  
 - provide resource for frequently asked question. 
 - Updated our most visited integration support article
 - Improved our most visited integration support article by writing about best practices on changing mappings to 
