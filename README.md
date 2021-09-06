@@ -13,18 +13,18 @@
 - Identified Spotify customer pain points through 12 user interviews to [propose feature enahancements](https://docs.google.com/presentation/d/13xkjX__XCZCXjCZz0Q_54ZLDU7U1wOzXuY6D-YaLjAA/edit?usp=sharing) for an improved user experience.
 - Delivered the best Aha! product demo in cohort of 11 to the VP of Customer Success and received an offer to join the team full time.  
 
-**Web Designer** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
-- Managed a complete redesign of the company website by creating wireframes in Figma, gathering feedback through user interviews, and implementing a new user experience through Wix.
-- Applied a robust content management system to efficiently publish items on site and improved SEO which increased site traffic by 20%
-
 **Web Developer** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
-- Revamped UX design of a low-performing product from concept to production by conducting user research, defining success metrics, and implementing iterative design improvements leading to increased user satisfaction.
 - Revitalized company website on WordPress by implementing custom code in HTML, CSS, JavaScript, BootStrap, jQuery to align to new specs and improve user experience. 
 
 **Product Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
+- Revamped UX design of a low-performing product from concept to production by conducting user research, defining success metrics, and implementing iterative design improvements leading to increased user satisfaction.
 - Oversaw product roadmap of medical devices end-to-end through agile development by defining specifications and product concept, prototyping, iterative testing, backlog maintenance, and strategy development. 
 Critically contributed to intellectual property leading to four patent filings and one publication in The Journal of Analytical Chemistry.
 - Collaborated cross-functionally with design, engineering, patent lawyer, manufacturing, QA, and marketing teams to launch products.  
+
+**Web Designer** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
+- Managed a complete redesign of the company website by creating wireframes in Figma, gathering feedback through user interviews, and implementing a new user experience through Wix.
+- Applied a robust content management system to efficiently publish items on site and improved SEO which increased site traffic by 20%
 
 
 ## Education
