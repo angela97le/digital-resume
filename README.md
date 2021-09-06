@@ -15,13 +15,13 @@
 
 **Web Developer** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
 - Built the [About Us webpage](https://sandstonedx.com/aboutus/) with interative, collapsible descriptions to improve UI and UX.
-- Conducted user testing to guide design process and decisions.
+- Conducted user testing in order to guide design process and decisions.
 - Wrote internal documentation to provide team with instructions to update webpage independently.
 
 **Product Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
 - Revamped UX design of a low-performing product from concept to production by conducting user research, defining success metrics, and implementing iterative design improvements leading to increased user satisfaction.
 - Oversaw product roadmap of medical devices end-to-end through agile development by defining specifications and product concept, prototyping, iterative testing, backlog maintenance, and strategy development. 
-Critically contributed to intellectual property leading to four patent filings and one publication in The Journal of Analytical Chemistry.
+- Critically contributed to intellectual property leading to four patent filings and one publication in The Journal of Analytical Chemistry.
 - Collaborated cross-functionally with design, engineering, patent lawyer, manufacturing, QA, and marketing teams to launch products.  
 
 **Web Designer** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
