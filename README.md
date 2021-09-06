@@ -15,6 +15,7 @@
 
 **Web Developer** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
 - Revitalized company website on WordPress by implementing custom code in HTML, CSS, JavaScript, BootStrap, jQuery to align to new specs and improve user experience. 
+- Wrote internal documentation to provide team with instructions to maintain webpage independently.
 
 **Product Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
 - Revamped UX design of a low-performing product from concept to production by conducting user research, defining success metrics, and implementing iterative design improvements leading to increased user satisfaction.
