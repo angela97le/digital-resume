@@ -4,14 +4,23 @@
 ## Experience
 
 **Customer Success Specialist** @ [Aha!](https://www.aha.io/) - Remote _(Dec 2020 - Sept 2021)_
-- Led 70+ demos and helped prospective product management teams align their work to strategy. Generated $10k+ in new MRR as a result.
+- Led 75+ demos and helped prospective product management teams align their work to strategy. Generated $10k+ in new MRR as a result.
 - Wrote [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) to improve customer resources for frequently asked Jira integration question.
 - Developed admin skills for development tools (Jira, ADO, etc) and expert visual roadmapping skills to solve 1,800+ customer tickets.
+
+**Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
+- Identified Spotify customer pain points through 12 user interviews to [present feature enahancements](https://docs.google.com/presentation/d/13xkjX__XCZCXjCZz0Q_54ZLDU7U1wOzXuY6D-YaLjAA/edit?usp=sharing) to improve user experience.
+- Conducted 5 Spotify user interviews to identify pain points to prioritize and present feature enhancements to improve user experience.
+
+- Selected to be one in 11 fellows (2.2% acceptance rate) in an accelerated 8 week program to implement product management best practices by strategizing and planning a feature roadmap for an entrepreneurial social video platform.
+-  on the Spotify Car Mode application to validate user journeys and pain points then prioritized and presented feature enhancements to improve user experience.
+- Delivered the best product demo to the Customer Success functional lead and received an offer to join the team full time.
 
 **Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
 - Selected to be one in 11 fellows (2.2% acceptance rate) in an accelerated 8 week program to implement product management best practices by strategizing and planning a feature roadmap for an entrepreneurial social video platform.
 - Conducted user research on the Spotify Car Mode application to validate user journeys and pain points then prioritized and presented feature enhancements to improve user experience.
 - Delivered the best product demo to the Customer Success functional lead and received an offer to join the team full time.
+
 
 **Web Designer** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
 - Managed a complete redesign of the company website by creating wireframes in Figma, gathering feedback through user interviews, and implementing a new user experience through Wix.
