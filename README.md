@@ -4,7 +4,6 @@
 ## Experience
 
 **Customer Success Specialist** @ [Aha!](https://www.aha.io/) - Remote _(Dec 2020 - Sept 2021)_
-- Added $10k to new MRR by leading over 70 demos and helping prospective product management teams align their work to strategy.  
 - Led 70+ demos and helped prospective product management teams align their work to strategy to generate $10k+ in new MRR.
 - Wrote [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) to improve customer resources for frequently asked Jira integration question.
 - Developed admin skills for development tools (Jira, ADO, etc) and expert visual roadmapping skills to solve 1,800+ customer tickets.
@@ -16,7 +15,8 @@
 - Wrote [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) to improve customer resources for frequently asked Jira integration question.
 - Configured and integrated Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab accounts with Aha! in order to build tool expertise and solve more than 1,800 customer Zendesk tickets.
 - Solved more than 1,800 Zendesk tickets by providing integration configuration guidance with development tools (Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab) and expert guidance on creating visual roadmaps catered to both high level and engineering focused stakeholders.
-- Led 70+ product demos to product management teams 
+- Led 70+ product demos to product management teams
+- - Added $10k to new MRR by leading over 70 demos and helping prospective product management teams align their work to strategy.   
   
 
 **Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
