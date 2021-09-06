@@ -14,8 +14,8 @@
 - Delivered the best Aha! product demo to the VP of Customer Success and received an offer to join the team full time.  
 
 **Web Developer** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Pleasanton, CA _(Jan 2020 - Sept 2020)_
-- Built the [About Us webpage](https://angela97le.wixsite.com/website-2/case-study-2) with interative, collapsible descriptions guided by user testing to improve UI and UX.
-- Wrote internal documentation to provide team with instructions to update webpage independently.
+- Built the [About Us webpage](https://angela97le.wixsite.com/website-2/case-study-2) with interative, collapsible descriptions guided by user testing to improve UI/UX.
+- Wrote internal documentation on how to edit custom code on WordPress to provide team with instructions to update webpage independently.
 - Conducted user testing to guide design process and decisions.
 
 **R&D Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Pleasanton, CA _(Jan 2020 - Sept 2020)_
