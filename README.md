@@ -14,8 +14,9 @@
 - Delivered the best Aha! product demo to the VP of Customer Success and received an offer to join the team full time.  
 
 **Web Developer** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
-- Revitalized company website on WordPress by implementing custom code in HTML, CSS, JavaScript, BootStrap, jQuery to align to new specs and improve user experience. 
-- Wrote internal documentation to provide team with instructions to maintain webpage independently.
+- Built the [About Us webpage](https://sandstonedx.com/aboutus/) with interative, collapsible descriptions to improve UI and UX.
+- Conducted user testing to guide design process and decisions.
+- Wrote internal documentation to provide team with instructions to update webpage independently.
 
 **Product Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
 - Revamped UX design of a low-performing product from concept to production by conducting user research, defining success metrics, and implementing iterative design improvements leading to increased user satisfaction.
