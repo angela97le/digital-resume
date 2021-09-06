@@ -17,6 +17,8 @@
 - Solved more than 1,800 Zendesk tickets by providing integration configuration guidance with development tools (Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab) and expert guidance on creating visual roadmaps catered to both high level and engineering focused stakeholders.
 - Led 70+ product demos to product management teams
 - - Added $10k to new MRR by leading over 70 demos and helping prospective product management teams align their work to strategy.   
+- - Led 70+ demos and helped prospective product management teams align their work to strategy to generate $10k+ in new MRR.
+
   
 
 **Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
