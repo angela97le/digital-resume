@@ -24,7 +24,7 @@
 
 **Web Designer** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
 - Managed a complete redesign of the company website by creating wireframes in Figma, gathering feedback through user interviews, and implementing a new user experience through Wix.
-- Applied a robust content management system to efficiently publish items on site and improved SEO which increased site traffic by 20%
+- Applied a robust content management system to efficiently publish items on site which decreased inventory upload time by 90%.
 
 
 ## Education
