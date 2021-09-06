@@ -18,12 +18,14 @@
 - Conducted user testing to guide design process and decisions.
 - Wrote internal documentation to provide team with instructions to update webpage independently.  
 
-**R&D Intern**@ [Sandstone Diagnostics](https://sandstonedx.com/) - Pleasanton, CA _(Jan 2020 - Sept 2020)_
+**R&D Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Pleasanton, CA _(Jan 2020 - Sept 2020)_
 - Oversaw project gantt roadmap by collaborating with cross-functional teams. Led to manufacturing and distribution of 3000 parts.
 - Co-led product UX design of medical parts through iterative designs in CAD & user tests leading to 4 patent filings and a [publication](https://www.mdpi.com/2075-4418/11/6/1019).  
 
 **Web Designer** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
-- Managed a complete redesign of the company website by creating wireframes in Figma, gathering feedback through user interviews, and implementing a new user experience through Wix.
+- Revamped UI/UX of [website](https://angela97le.wixsite.com/website-2/copy-of-interactive-webpage-design) by defining specifications & creating Figma wireframes to improve online branding and attract customers.
+- Identified user journey and site goal
+- Gathered feedback through user interviews, and implementing a new user experience through Wix.
 - Applied a robust content management system to efficiently publish items on site which decreased inventory upload time by 90%.
 
 
