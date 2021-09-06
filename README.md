@@ -1,5 +1,5 @@
 # Angela Le
-[Website](https://angela97le.wixsite.com/website-2) / [Email](angela97le@g.ucla.edu) / [LinkedIn](https://www.linkedin.com/in/lenangela/)  
+[Website](https://angela97le.wixsite.com/website-2) / [Email](angela97le@g.ucla.edu) / [LinkedIn](https://www.linkedin.com/in/lenangela/)\
 
 ## Experience
 
@@ -7,6 +7,12 @@
 - Provided best practices to product management teams to standardize work-strategy alignment and release planning processes across different methodologies (sprint based, release based, CI/CD, SAFe, etc) for improved organization and efficient product delivery.
 - Led over 140 product demos and help calls to product management teams from initial demos to active subscriptions through procurement, legal, and security processes. Generated over $10,000 in new monthly revenue as a result.
 - Solved more than 1,800 Zendesk tickets to provide integration configuration guidance with development systems (Jira, ADO, Asana, Salesforce, GitLab, Github, etc) and steps to create visual roadmaps for high level and engineering focused stakeholders.
+- Wrote about [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) and published on Aha!'s public knowledge base to provide customer resources on a frequently asked question.
+
+\
+- provide resource for frequently asked question. 
+- Updated our most visited integration support article
+- Improved our most visited integration support article by writing about best practices on changing mappings to 
 - Captured customer feedback, tested new functionality, and co-wrote then published Jira help content to the public knowledge base.
 
 **Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
