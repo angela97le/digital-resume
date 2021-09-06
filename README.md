@@ -14,12 +14,12 @@
 - Delivered the best Aha! product demo to the VP of Customer Success and received an offer to join the team full time.  
 
 [Sandstone Diagnostics](https://sandstonedx.com/)  
-**Web Developer** - Remote _(Jan 2020 - Sept 2020)_
+**Web Developer** - Pleasanton, CA _(Jan 2020 - Sept 2020)_
 - Built the [About Us webpage](https://angela97le.wixsite.com/website-2/case-study-2) with interative, collapsible descriptions guided by user testing to improve UI and UX.
 - Conducted user testing to guide design process and decisions.
 - Wrote internal documentation to provide team with instructions to update webpage independently.  
 
-**R&D Intern** - Remote _(Jan 2020 - Sept 2020)_
+**R&D Intern** - Pleasanton, CA _(Jan 2020 - Sept 2020)_
 - Oversaw project gantt roadmap by collaborating with cross-functional teams. Led to manufacturing and distribution of 3000 parts.
 - Co-led product UX design of medical parts through iterative designs in CAD & user tests leading to 4 patent filings and a [publication](https://www.mdpi.com/2075-4418/11/6/1019).
 
