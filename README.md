@@ -24,7 +24,7 @@
 
 **Web Designer** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
 - Revamped UI/UX of [website](https://angela97le.wixsite.com/website-2/copy-of-interactive-webpage-design) by defining specifications & creating Figma wireframes to improve online branding and attract customers.
-- Implemented a robust content management system by creating dynamic Wix pages to decreased inventory upload time by 90%.
+- Implemented a robust content management system by creating dynamic Wix pages to decrease inventory upload time by 90%.
 - Identified user journey and site goal through user interviews to design an effective user experience on Wix.  
 
 ## Education
