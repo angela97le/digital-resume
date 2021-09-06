@@ -8,17 +8,6 @@
 - Wrote [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) to improve customer resources for frequently asked Jira integration question.
 - Developed admin skills for development tools (Jira, ADO, etc) and expert visual roadmapping skills to solve 1,800+ customer tickets.
 
-**Customer Success Specialist** @ [Aha!](https://www.aha.io/) - Remote _(Dec 2020 - Sept 2021)_
-- Provided best practices to product management teams to standardize work-strategy alignment and release planning processes across different methodologies (sprint based, release based, CI/CD, SAFe, etc) for improved organization and efficient product delivery.
-- Led over 140 product demos and help calls to product management teams from initial demos to active subscriptions through procurement, legal, and security processes. Generated over $10,000 in new monthly revenue as a result.
-- Solved more than 1,800 Zendesk tickets to provide integration configuration guidance with development systems (Jira, ADO, Asana, Salesforce, GitLab, Github, etc) and steps to create visual roadmaps for high level and engineering focused stakeholders.
-- Wrote [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) to improve customer resources for frequently asked Jira integration question.
-- Configured and integrated Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab accounts with Aha! in order to build tool expertise and solve more than 1,800 customer Zendesk tickets.
-- Solved more than 1,800 Zendesk tickets by providing integration configuration guidance with development tools (Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab) and expert guidance on creating visual roadmaps catered to both high level and engineering focused stakeholders.
-- Led 70+ product demos to product management teams
-- - Added $10k to new MRR by leading over 70 demos and helping prospective product management teams align their work to strategy.   
-  
-
 **Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
 - Selected to be one in 11 fellows (2.2% acceptance rate) in an accelerated 8 week program to implement product management best practices by strategizing and planning a feature roadmap for an entrepreneurial social video platform.
 - Conducted user research on the Spotify Car Mode application to validate user journeys and pain points then prioritized and presented feature enhancements to improve user experience.
