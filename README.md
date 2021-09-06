@@ -10,7 +10,7 @@
 
 **Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
 - Strategized and planned feature roadmap for an integrated social app, [Mems](https://drive.google.com/drive/u/1/folders/1DQSa9Gn9SYqBIbbShddLc_Z5UDMTkQAd), end-to-end to demonstrate product management skills.
-- Identified Spotify customer pain points through 12 user interviews to [present feature enahancements](https://docs.google.com/presentation/d/13xkjX__XCZCXjCZz0Q_54ZLDU7U1wOzXuY6D-YaLjAA/edit?usp=sharing) to improve user experience.
+- Identified Spotify customer pain points through 12 user interviews to [propose feature enahancements](https://docs.google.com/presentation/d/13xkjX__XCZCXjCZz0Q_54ZLDU7U1wOzXuY6D-YaLjAA/edit?usp=sharing) for an improved user experience.
 - Delivered the best Aha! product demo in cohort to the VP of Customer Success and received an offer to join the team full time.
 
 **Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
