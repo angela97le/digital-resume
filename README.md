@@ -8,7 +8,7 @@
 - Led over 140 product demos and help calls to product management teams from initial demos to active subscriptions through procurement, legal, and security processes. Generated over $10,000 in new monthly revenue as a result.
 - Solved more than 1,800 Zendesk tickets to provide integration configuration guidance with development systems (Jira, ADO, Asana, Salesforce, GitLab, Github, etc) and steps to create visual roadmaps for high level and engineering focused stakeholders.
 - Wrote [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) to improve customer resources for frequently asked Jira integration question.
-- Configured and integrated Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab accounts with Aha! in order to build tool expertise, solve more than 1,800 customer Zendesk tickets, and maintain in the top 10 responders each month.
+- Configured and integrated Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab accounts with Aha! in order to build tool expertise and solve more than 1,800 customer Zendesk tickets.
 
 - Solved more than 1,800 Zendesk tickets to provide integration configuration guidance with Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab accounts and steps to create visual roadmaps for high level and engineering focused stakeholders.
   
