@@ -7,7 +7,7 @@
 - Provided best practices to product management teams to standardize work-strategy alignment and release planning processes across different methodologies (sprint based, release based, CI/CD, SAFe, etc) for improved organization and efficient product delivery.
 - Led over 140 product demos and help calls to product management teams from initial demos to active subscriptions through procurement, legal, and security processes. Generated over $10,000 in new monthly revenue as a result.
 - Wrote [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) to improve customer resources for frequently asked Jira integration question.
-- Developed admin skills for development tools (Jira, ADO, etc) and expertise in stakeholder specific roadmapping to solve over 1,800 customer Zedesk tickets
+- Developed admin skills for development tools (Jira, ADO, etc) and visual roadmapping skills to solve over 1,800 customer Zendesk tickets
 
 **Customer Success Specialist** @ [Aha!](https://www.aha.io/) - Remote _(Dec 2020 - Sept 2021)_
 - Provided best practices to product management teams to standardize work-strategy alignment and release planning processes across different methodologies (sprint based, release based, CI/CD, SAFe, etc) for improved organization and efficient product delivery.
