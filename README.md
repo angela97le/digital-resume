@@ -15,7 +15,7 @@
 
 **Web Developer** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
 - Built the [About Us webpage](https://sandstonedx.com/aboutus/) with interative, collapsible descriptions to improve UI and UX.
-- Conducted user testing in order to guide design process and decisions.
+- Conducted user testing to guide design process and decisions.
 - Wrote internal documentation to provide team with instructions to update webpage independently.
 
 **Product Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
@@ -50,6 +50,6 @@
 
 
 ## Skills
-Aha!, Jira, Azure DevOps
-HTML, CSS, JavaScript
+Aha!, Jira, Azure DevOps  
+HTML, CSS, JavaScript  
 Figma, User Interviews, Product Demos, Communication
