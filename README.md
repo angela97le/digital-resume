@@ -15,7 +15,7 @@
 - Wrote [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) to improve customer resources for frequently asked Jira integration question.
 - Configured and integrated Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab accounts with Aha! in order to build tool expertise and solve more than 1,800 customer Zendesk tickets.
 - Solved more than 1,800 Zendesk tickets by providing integration configuration guidance with development tools (Jira, Azure DevOps, Rally, Trello, Salesforce, and Gitlab) and expert guidance on creating visual roadmaps catered to both high level and engineering focused stakeholders.
-- Led 70+ product demos to product management teams
+- Led 70+ product demos to product management teams 
   
 
 **Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
