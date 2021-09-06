@@ -19,7 +19,7 @@
 - Wrote internal documentation to provide team with instructions to update webpage independently.
 
 **Product R&D Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Remote _(Jan 2020 - Sept 2020)_
-- Oversaw project gantt roadmap by collaborating with cross-functional teams. Led to manufacturing and disctribution of 3000 consumer parts.
+- Oversaw project gantt roadmap by collaborating with cross-functional teams. Led to manufacturing and distribution of 3000 parts.
 - Co-led product UX design of medical parts through iterative designs in CAD & user tests leading to 4 patent filings and a [publication](https://www.mdpi.com/2075-4418/11/6/1019).
 
 **Web Designer** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
