@@ -4,7 +4,7 @@
 ## Experience
 
 **Customer Success Specialist** @ [Aha!](https://www.aha.io/) - Remote _(Dec 2020 - Sept 2021)_
-- Added $10,000 to new monthly revenue by leading over 70 product demos to product management teams and providing strategy and release planning best practices.  
+- Added $10,000 to new monthly revenue by leading over 70 product demos to product management teams and providing guidance on strategy-release planning alignment.  
 - Wrote [best practices for changing integration mappings](https://www.aha.io/support/roadmaps/integrations/jira/recommended-jira-mappings#best-practices-for-changing-your-integration-mappings) to improve customer resources for frequently asked Jira integration question.
 - Developed admin skills for development tools (Jira, ADO, etc) and expert visual roadmapping skills to solve 1,800+ customer tickets.
 
