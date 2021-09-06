@@ -10,7 +10,7 @@
 
 **Product Manager Fellow** @ [Aha!](https://www.aha.io/) - Remote _(Sept 2020 - Dec 2020)_
 - Strategized and planned feature roadmap for an integrated social app, [Mems](https://drive.google.com/drive/folders/1DQSa9Gn9SYqBIbbShddLc_Z5UDMTkQAd?usp=sharing), end-to-end to demonstrate entrepreneurial skills.
-- Identified Spotify customer pain points through 12 user interviews to [propose feature enahancements](https://docs.google.com/presentation/d/13xkjX__XCZCXjCZz0Q_54ZLDU7U1wOzXuY6D-YaLjAA/edit?usp=sharing) for an improved user experience.
+- Identified Spotify customer pain points through 12 user interviews to [propose feature enhancements](https://docs.google.com/presentation/d/13xkjX__XCZCXjCZz0Q_54ZLDU7U1wOzXuY6D-YaLjAA/edit?usp=sharing) for an improved user experience.
 - Delivered the best Aha! product demo to the VP of Customer Success and received an offer to join the team full time.  
 
 **Web Developer** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Pleasanton, CA _(May 2020 - Sept 2020)_
