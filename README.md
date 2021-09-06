@@ -29,12 +29,6 @@ Critically contributed to intellectual property leading to four patent filings a
 
 ## Education
 
-**Certification** in Professional Strategic Roadmaps  
-[Aha!](https://www.aha.io/) - Remote _(Certified Aug 2021)_
-
-**Certification** in Product Management Fundamentals  
-[Aha!](https://www.aha.io/) - Remote _(Certified October 2020)_
-
 **Online Bootcamp** in Web Development  
 [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Remote _(May - Sept 2020)_
 
@@ -43,6 +37,15 @@ Critically contributed to intellectual property leading to four patent filings a
 
 **Education Abroad Program** in Roman Art and History  
 [UC Center Rome](https://uceap.universityofcalifornia.edu/taxonomy/term/390) - Rome, Italy _(Summer 2019)_  
+
+## Certifications
+
+**Certification** in Professional Strategic Roadmaps  
+[Aha!](https://www.aha.io/) - Remote _(Certified Aug 2021)_
+
+**Certification** in Product Management Fundamentals  
+[Aha!](https://www.aha.io/) - Remote _(Certified October 2020)_
+
 
 ## Skills
 Aha!, Jira, Azure DevOps
