@@ -49,4 +49,4 @@
 ## Skills
 Aha!, Jira, Azure DevOps  
 HTML, CSS, JavaScript  
-Figma, User Interviews, Product Demos, Communication
+Figma, User Interviews, Product Demos, Communication, Roadmap Creation and Management
