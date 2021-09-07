@@ -47,6 +47,6 @@
 [Aha!](https://www.aha.io/) - Remote _(Certified October 2020)_  
 
 ## Skills
-Aha!, Jira, Azure DevOps  
+Administrative: Aha!, Jira, Azure DevOps  
+Proficient: Figma, User Interviews, Product Demos, Communication, Roadmap Creation and Management  
 HTML, CSS, JavaScript  
-Figma, User Interviews, Product Demos, Communication, Roadmap Creation and Management
