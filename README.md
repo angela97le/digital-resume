@@ -48,5 +48,5 @@
 
 ## Skills
 _Administrative:_ Aha!, Jira, Azure DevOps  
-_Proficient:_ Figma, User Interviews, Product Demos, Communication, Roadmap Creation and Management  
-_Intermediate:_ HTML, CSS, JavaScript  
+_Proficient:_ Product Demos, Communication, Roadmap Creation and Management  
+_Intermediate:_ Figma, User Interviews, HTML, CSS, JavaScript  
