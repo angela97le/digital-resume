@@ -40,10 +40,10 @@
 
 ## Certifications
 
-**Certification** in Professional Strategic Roadmaps  
+**Professional Strategic Roadmaps**  
 [Aha!](https://www.aha.io/) - Remote _(Certified Aug 2021)_
 
-**Certification** in Product Management Fundamentals  
+**Product Management Fundamentals**  
 [Aha!](https://www.aha.io/) - Remote _(Certified October 2020)_  
 
 ## Skills
