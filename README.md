@@ -14,7 +14,7 @@
 - Delivered the best Aha! product demo to the VP of Customer Success and received an offer to join the team full time.  
 
 **Web Developer (Self-Initiated Project)** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Pleasanton, CA _(May 2020 - Sept 2020)_
-- Built the [About Us webpage](https://angela97le.wixsite.com/website-2/case-study-2) with interative, collapsible descriptions guided by user testing to improve UI/UX.
+- Built the [About Us webpage](https://angela97le.wixsite.com/portfolio/interactive-ui-design) with interative, collapsible descriptions guided by user testing to improve UI/UX.
 - Wrote internal documentation on how to edit custom code on WordPress to provide team with instructions to update webpage independently.
 - Conducted user testing to guide design process and decisions.
 
@@ -23,7 +23,7 @@
 - Co-led product UX design of medical parts through iterative designs in CAD & user tests leading to 4 patent filings and a [publication](https://www.mdpi.com/2075-4418/11/6/1019).  
 
 **Web Designer (Project Contract)** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
-- Redesigned [website](https://angela97le.wixsite.com/website-2/copy-of-interactive-webpage-design) UI/UX by defining specifications & creating Figma wireframes to improve online branding and attract customers.
+- Redesigned [website](https://angela97le.wixsite.com/portfolio/website-ux-redesign) UI/UX by defining specifications & creating Figma wireframes to improve online branding and attract customers.
 - Implemented a robust content management system by creating dynamic Wix pages to decrease inventory upload time by 90%.
 - Identified user journey and site goal through user interviews to design an effective user experience on Wix.  
 
