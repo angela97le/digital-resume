@@ -21,7 +21,7 @@
 **R&D Intern** @ [Sandstone Diagnostics](https://sandstonedx.com/) - Pleasanton, CA _(Jan 2020 - Sept 2020)_
 - Oversaw project gantt roadmap by leading cross-functional teams through product lifecycle. Resulted in manufacturing and distribution of 3000 parts.
 - Co-led product UX design of innovative medical parts through iterative designs in CAD and user tests leading to 4 patent filings and a [publication](https://www.mdpi.com/2075-4418/11/6/1019).
-- Collaborated with finance, marketing, and sales to define packaging and positioning in go-to-market strategy to produce one protottype to use for marketing content.
+- Collaborated with finance, marketing, and sales to define packaging and positioning in go-to-market strategy to produce a prototype to use for marketing content.
 
 **Web Designer (Freelance)** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
 - Redesigned [website](https://angela97le.wixsite.com/portfolio/website-ux-redesign) UI/UX by defining specifications and creating Figma wireframes to improve online branding and attract customers.
