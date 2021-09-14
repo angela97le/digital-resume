@@ -24,7 +24,7 @@
 - Collaborated with finance, marketing, and sales to define packaging and positioning in go-to-market strategy.
 
 **Web Designer (Freelance)** @ [Prime Auctioneers](https://www.primeauction88.com/) - Remote _(Jun 2021 - Aug 2021)_
-- Redesigned [website](https://angela97le.wixsite.com/portfolio/website-ux-redesign) UI/UX by defining specifications, conducting user research, and creating Figma wireframes to improve online branding and attract customers.
+- Redesigned [website](https://angela97le.wixsite.com/portfolio/website-ux-redesign) UI/UX by defining specifications and creating Figma wireframes to improve online branding and attract customers.
 - Implemented a robust content management system by creating dynamic Wix pages to decrease inventory upload time by 90%.
 - Identified user journey and site goal through user interviews to design an effective user experience on Wix.  
 
